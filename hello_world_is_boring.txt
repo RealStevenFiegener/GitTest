@@ -1,0 +1,4 @@
+Doing the Hello World Tutorial isn't a great idea for teaching
+someone how to code...
+
+Think about it!
